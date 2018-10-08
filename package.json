@@ -1,0 +1,24 @@
+{
+  "name": "mocha-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co-fs": "^1.2.0",
+    "co-mocha": "^1.2.2",
+    "co-supertest": "0.0.10",
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3",
+    "supertest": "^3.3.0"
+  }
+}
